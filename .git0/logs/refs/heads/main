@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 bee52c50d0d5cea5af312ae656ef6f0aef65ac9c Val Huber <valjhuber@gmail.com> 1661957375 -0700	clone: from https://github.com/ApiLogicServer/working_software_now.git
+bee52c50d0d5cea5af312ae656ef6f0aef65ac9c c51dd6feccbe1bb18104b9a2b2642f2b50ffd84f Val Huber <valjhuber@gmail.com> 1661957665 -0700	commit: new docker
+c51dd6feccbe1bb18104b9a2b2642f2b50ffd84f a4d42ce834ed6c05a73a5af269ec4efc27f0a46c Val Huber <valjhuber@gmail.com> 1661989834 -0700	commit: creation instructions
+a4d42ce834ed6c05a73a5af269ec4efc27f0a46c 62185de6413fbba69451420262d691c653e2b9b4 Val Huber <valjhuber@gmail.com> 1662003103 -0700	commit: corrections
+62185de6413fbba69451420262d691c653e2b9b4 c14d488887e264b86bd704ef72aa7291182480d6 Val Huber <valjhuber@gmail.com> 1662070681 -0700	commit: open readme
+c14d488887e264b86bd704ef72aa7291182480d6 9281804047d5216e27df92bac38dd6c2a0b0d031 Val Huber <valjhuber@gmail.com> 1662072797 -0700	pull --tags origin main: Fast-forward
+9281804047d5216e27df92bac38dd6c2a0b0d031 f3444043427f7ca553f3dd90a9ed18788ec0420c Val Huber <valjhuber@gmail.com> 1662072890 -0700	commit: remove project files
+f3444043427f7ca553f3dd90a9ed18788ec0420c aa007996e9e68c0f5c8241b6553198549b21a59e Val Huber <valjhuber@gmail.com> 1662073005 -0700	pull --tags origin main: Fast-forward
+aa007996e9e68c0f5c8241b6553198549b21a59e ea25b1967412c0bdd727aaaca55f7d63315aae54 Val Huber <valjhuber@gmail.com> 1666388877 -0700	commit: clarity
+ea25b1967412c0bdd727aaaca55f7d63315aae54 89ef771ed728c775b9d2a21a738dec81209cb07a Val Huber <valjhuber@gmail.com> 1666389059 -0700	commit: clarity
+89ef771ed728c775b9d2a21a738dec81209cb07a 072935f06ea7f31b306839b32337a604fcc2eaf9 Val Huber <valjhuber@gmail.com> 1666753742 -0700	commit: simpler
